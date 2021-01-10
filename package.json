@@ -1,0 +1,18 @@
+{
+  "name": "docker-node1",
+  "version": "1.0.0",
+  "description": "This project describes how to create a NodeJs application using a VsCode dev container. It showcases various techniques to improve the development experience including:",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon --inspect=0.0.0.0:9229 server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
