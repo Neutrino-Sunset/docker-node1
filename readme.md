@@ -151,4 +151,4 @@ Commit the changes to any modified files, and then in the VsCode status bar clic
 
 ## Conclusion
 
-This process to construct the project takes a somewhat iterative approach, adding and testing functionality a bit at a time. There is a fair amount of complexity here and building the project up in this manner and testing at each stage affords the best chance of tracking down any issues if something doesn't work. Once familiarity with the tools and configuration has been gained a project with this configuration can be more quickly constructed in one go.
+This process to construct the project takes a somewhat iterative approach, adding and testing functionality a bit at a time. There is a fair amount of complexity here and building the project up in this manner and testing at each stage affords the best chance of tracking down any issues if something doesn't work as expected. Once familiarity with the tools and configuration has been gained a project with this configuration can be more quickly constructed in one go.
