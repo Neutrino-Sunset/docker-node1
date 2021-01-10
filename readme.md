@@ -145,7 +145,7 @@ Open the project dev container in VsCode. You will find the `nodemon server.js` 
 
 ### Upload the project to Github
 
-Since git is installed in the dev container the VsCode git integration will all be functional. On the VsCode navigation sidebar click the `Source Control` button and on the Source Control pane click `Initialize Repository`. VsCode provides no feedback that this has worked, but if in the terminal you execute `ls -a` you will see the `.git` directory has been created. At this point you may need to reload the window for VsCode to initialise the source control provider, you may also need to add a suitable `.gitignore` file. The node one from (here)[https://github.com/github/gitignore] is suitable.
+Since git is installed in the dev container the VsCode git integration will all be functional. On the VsCode navigation sidebar click the `Source Control` button and on the Source Control pane click `Initialize Repository`. VsCode provides no feedback that this has worked, but if in the terminal you execute `ls -a` you will see the `.git` directory has been created. At this point you may need to reload the window for VsCode to initialise the source control provider, you may also need to add a suitable `.gitignore` file. The node one from [here](https://github.com/github/gitignore) is suitable.
 
 Commit the changes to any modified files, and then in the VsCode status bar click the `Publish to Github` button. Assuming you have a Github account, you will be prompted to select either a public or provide Github repository and the project will be uploaded.
 
